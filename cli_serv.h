@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 #define SERV_PORT 	9877
+#define NOTDEF	1
 
 typedef void Sigfunc(int);
 
